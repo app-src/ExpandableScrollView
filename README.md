@@ -7,3 +7,6 @@ Trying to achive a scrolling view with custom expandable view
 
 # Installation
 apk file in ATTACHMENTS folder
+
+# Design Insipiration
+[Joshua Oluwagbemiga's Design](https://dribbble.com/shots/5721735-InVision-Studio-Spaced-App)
